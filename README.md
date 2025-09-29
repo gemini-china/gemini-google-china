@@ -42,7 +42,7 @@ Gemini 2.5 Pro 的强大之处体现在以下几个方面：
 | **XsimpleChat** | **功能全面的“瑞士军刀”**：模型库最全，除Gemini 2.5 Pro外还支持20余种模型。集成AI PPT、知识库生成、联网搜索等强大办公功能，是生产力用户首选。 | [https://xsimplechat.com](https://xsimplechat.com) |
 | **蓝鲸 AI** | **极简高效的对话伴侣**：界面清爽，响应迅速，专注于核心对话体验。同时集成了Midjourney绘画功能，适合在创作与对话间无缝切换的用户。 | [https://ai.lanjingai.org](https://ai.lanjingai.org) |
 | **GPT中文版** | **多模型快速试用中心**：聚合了市面主流模型，提供便利的免费试用渠道。设计直观，无需复杂配置，是想快速对比不同模型表现的理想平台。 | [https://chatgpt-chinese.com](https://chatgpt-chinese.com) |
-| **Gemini 中国** | **多模型快速试用中心**：Gemini 中国版，无需复杂的网络条件，直接可以使用Gemini 全系列模型。 | [https://gemini-chinese.com](https://gemini-chinese.com) |
+| **Gemini 中国** | **Gemini中国**：Gemini 中国版，无需复杂的网络条件，直接可以使用Gemini 全系列模型。 | [https://gemini-chinese.com](https://gemini-chinese.com) |
 
 
 **上手步骤非常简单：**
